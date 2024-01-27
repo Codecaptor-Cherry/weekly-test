@@ -143,8 +143,8 @@
 | 📅20240113 |                                  📜[용액 합성하기](https://www.acmicpc.net/problem/14921)                                  |          |   ☑️   |          |          |          |                |
 | 📅20240113 |                               📜[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                               |          |   ☑️   |          |          |          |                |
 | 📅20240128 |                                       [📜AB](https://www.acmicpc.net/problem/12970)                                       |          |          |          |          |          |      ☑️      |
-| 📅20240128 |                                                        [📜가르침]()                                                        |          |          |          |          |          |       ⏳       |
-| 📅20240128 |                                                     [📜어두운굴다리]()                                                     |          |          |          |          |          |      ☑️      |
+| 📅20240128 |                                      [📜가르침](https://www.acmicpc.net/problem/1062)                                      |          |          |          |          |          |       ⏳       |
+| 📅20240128 |                                  [📜어두운굴다리](https://www.acmicpc.net/problem/17266)                                  |          |          |          |          |          |      ☑️      |
 |  `<br>`  |                                                                                                                        |          |          |          |          |          |                |
 
 ### 🍒Checking mark
