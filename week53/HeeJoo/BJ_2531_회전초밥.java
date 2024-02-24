@@ -29,30 +29,30 @@ public class BJ_2531_회전초밥 {
 
         int ans = 0;
         int tmp = 0;
-        int[] menu = new int[d + 1];
-        for(int i = 0; i < k; i++) {
-            if(menu[belt[i]] == 0) {
-                tmp++;
+        int[] menu = new int[d + 1]; // 1번부터 d번까지 메뉴 존재
+        for(int i = 0; i < k; i++) { // 슬라이딩 윈도우
+            if(menu[belt[i]] == 0) { // belt[i]번 초밥 섭취를 안 한 경우
+                tmp++; // 종류++
             }
-            menu[belt[i]]++;
+            menu[belt[i]]++; // belt[i]번 초밥 섭취 여부++
         }
 
-        ans = menu[c] == 0 ? tmp + 1 : tmp;
+        ans = menu[c] == 0 ? tmp + 1 : tmp; // 쿠폰 번호에 해당하는 초밥을 먹지 않은 경우 tmp + 1
         for(int i = 1; i < N; i++) {
-            int left = belt[i - 1];
-            int right = belt[i + k - 1 < N ? i + k - 1 : i + k - 1 - N];
+            int left = belt[i - 1]; // 제외할 이전 벨트
+            int right = belt[i + k - 1 < N ? i + k - 1 : i + k - 1 - N]; // 추가할 이후 벨트 ~ 벨트는 순환이니까 범위를 벗어나는 경우 처리
 
-            if(menu[left] == 1) {
+            if(menu[left] == 1) { // 제외되는 초밥이 슬라이딩 윈도우에서 중복x
                 tmp--;
             }
             menu[left]--;
 
-            if(menu[right] == 0) {
+            if(menu[right] == 0) { // 추가되는 초밥이 슬라이딩 윈도우에서 중복x
                 tmp++;
             }
             menu[right]++;
 
-            ans = Math.max(ans, menu[c] == 0 ? tmp + 1 : tmp);
+            ans = Math.max(ans, menu[c] == 0 ? tmp + 1 : tmp); // 슬라이딩 윈도우 쿠폰 초밥 포함 여부
         }
 
         System.out.println(ans);
