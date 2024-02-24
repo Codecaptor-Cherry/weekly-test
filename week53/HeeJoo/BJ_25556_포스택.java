@@ -32,8 +32,8 @@ public class BJ_25556_포스택 {
         Stack<Integer> st3 = new Stack<>();
         Stack<Integer> st4 = new Stack<>();
 
-        // top보다 큰 경우만 stack에 넣기
-        boolean flag = true;
+        // top보다 크거나 stack이 비어있는 경우에만 stack 삽입 가능
+        boolean flag = true; // 정렬 가능 여부
         for(int i = 0; i < N; i++) {
             if(st1.isEmpty() || st1.peek() < arr[i]) {
                 st1.push(arr[i]);
@@ -55,6 +55,7 @@ public class BJ_25556_포스택 {
                 continue;
             }
 
+            // 4개의 스택 중 어디에도 들어가지 못하면 정렬 불가능
             flag = false;
             break;
         }
