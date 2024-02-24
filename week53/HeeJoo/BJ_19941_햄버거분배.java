@@ -30,16 +30,17 @@ public class BJ_19941_햄버거분배 {
 
         int ans = 0;
 
+        // 사람(0), 햄버거(1), 섭취된 햄버거(2)
         for(int i = 0; i < N; i++) {
             if(arr[i] == 0) { // 사람
-                for(int j = i - K; j <= i + K; j++) {
-                    if(j < 0 || j >= N ) {
+                for(int j = i - K; j <= i + K; j++) { // 사거리 내에서 햄버거 먹기 ^.^
+                    if(j < 0 || j >= N ) { // 배열 범위를 벗어나는 경우
                         continue;
                     }
 
-                    if(arr[j] == 1) {
+                    if(arr[j] == 1) { // 햄버거인 경우
                         ans++;
-                        arr[j] = 2;
+                        arr[j] = 2; // 이미 섭취한 햄버거임을 표시
                         break;
                     }
                 }
