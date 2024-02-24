@@ -149,7 +149,7 @@
 | 📅20240217 |                                  [📜주사위 쌓기](https://www.acmicpc.net/problem/2116)                                  |          |          |     ☑️     |          |          |            |
 | 📅20240224 |                                  [📜햄버거 분배](https://www.acmicpc.net/problem/19941)                                  |          |     ☑️     |          |          |          |            |
 | 📅20240224 |                                  [📜회전초밥](https://www.acmicpc.net/problem/2531)                                  |          |     ☑️     |          |          |          |            |
-| 📅20240224 |                                  [📜포스택](]https://www.acmicpc.net/problem/25556)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240224 |                                  [📜포스택](https://www.acmicpc.net/problem/25556)                                  |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
