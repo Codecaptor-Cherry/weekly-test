@@ -145,7 +145,11 @@
 | 📅20240128 |                                       [📜AB](https://www.acmicpc.net/problem/12970)                                       |          |          |          |          |          |      ☑️      |
 | 📅20240128 |                                      [📜가르침](https://www.acmicpc.net/problem/1062)                                      |          |          |          |          |          |       ⏳       |
 | 📅20240128 |                                  [📜어두운굴다리](https://www.acmicpc.net/problem/17266)                                  |          |          |          |          |          |      ☑️      |
-|  `<br>`  |                                                                                                                        |          |          |          |          |          |                |
+| 📅20240217 |                                  [📜커플 만들기](https://www.acmicpc.net/problem/1727)                                  |          |          |     ☑️     |          |          |            |
+| 📅20240217 |                                  [📜주사위 쌓기](https://www.acmicpc.net/problem/2116)                                  |          |          |     ☑️     |          |          |            |
+| 📅20240224 |                                  [📜햄버거 분배](https://www.acmicpc.net/problem/19941)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240224 |                                  [📜회전초밥](https://www.acmicpc.net/problem/2531)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240224 |                                  [📜포스택](]https://www.acmicpc.net/problem/25556)                                  |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
