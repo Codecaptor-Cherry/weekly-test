@@ -150,6 +150,9 @@
 | 📅20240224 |                                  [📜햄버거 분배](https://www.acmicpc.net/problem/19941)                                  |          |     ☑️     |          |          |          |            |
 | 📅20240224 |                                  [📜회전초밥](https://www.acmicpc.net/problem/2531)                                  |          |     ☑️     |          |          |          |            |
 | 📅20240224 |                                  [📜포스택](https://www.acmicpc.net/problem/25556)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240302 |                                  [📜Puyo Puyo](https://www.acmicpc.net/problem/11559)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240302 |                                  [📜배열 돌리기 2](https://www.acmicpc.net/problem/16927)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240302 |                                  [📜최대 점수](https://www.acmicpc.net/problem/27085)                                  |          |     ❌     |          |          |          |            |
 
 ### 🍒Checking mark
 
