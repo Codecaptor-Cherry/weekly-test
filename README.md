@@ -153,6 +153,9 @@
 | 📅20240302 |                                  [📜Puyo Puyo](https://www.acmicpc.net/problem/11559)                                  |          |     ☑️     |          |          |          |            |
 | 📅20240302 |                                  [📜배열 돌리기 2](https://www.acmicpc.net/problem/16927)                                  |          |     ⏳     |          |          |          |            |
 | 📅20240302 |                                  [📜최대 점수](https://www.acmicpc.net/problem/27085)                                  |          |     ❌     |          |          |          |            |
+| 📅20240309 |                                  [📜FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240309 |                                  [📜ZOAC](https://www.acmicpc.net/problem/16719)                                  |          |     ⏳     |          |          |          |            |
+| 📅20240309 |                                  [📜체스판 위의 공](https://www.acmicpc.net/problem/16957)                                  |          |     ⏳     |          |          |          |            |
 
 ### 🍒Checking mark
 
