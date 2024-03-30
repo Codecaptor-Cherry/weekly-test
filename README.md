@@ -143,19 +143,24 @@
 | 📅20240113 |                                  📜[용액 합성하기](https://www.acmicpc.net/problem/14921)                                  |          |   ☑️   |          |          |          |                |
 | 📅20240113 |                               📜[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                               |          |   ☑️   |          |          |          |                |
 | 📅20240128 |                                       [📜AB](https://www.acmicpc.net/problem/12970)                                       |          |          |          |          |          |      ☑️      |
-| 📅20240128 |                                      [📜가르침](https://www.acmicpc.net/problem/1062)                                      |          |          |          |          |          |       ⏳       |
+| 📅20240128 |                                      [📜가르침](https://www.acmicpc.net/problem/1062)                                     |          |          |          |          |          |       ⏳       |
 | 📅20240128 |                                  [📜어두운굴다리](https://www.acmicpc.net/problem/17266)                                  |          |          |          |          |          |      ☑️      |
 | 📅20240217 |                                  [📜커플 만들기](https://www.acmicpc.net/problem/1727)                                  |          |          |     ☑️     |          |          |            |
 | 📅20240217 |                                  [📜주사위 쌓기](https://www.acmicpc.net/problem/2116)                                  |          |          |     ☑️     |          |          |            |
 | 📅20240224 |                                  [📜햄버거 분배](https://www.acmicpc.net/problem/19941)                                  |          |     ☑️     |          |          |          |            |
-| 📅20240224 |                                  [📜회전초밥](https://www.acmicpc.net/problem/2531)                                  |          |     ☑️     |          |          |          |            |
-| 📅20240224 |                                  [📜포스택](https://www.acmicpc.net/problem/25556)                                  |          |     ☑️     |          |          |          |            |
+| 📅20240224 |                                  [📜회전초밥](https://www.acmicpc.net/problem/2531)                                    |          |     ☑️     |          |          |          |            |
+| 📅20240224 |                                  [📜포스택](https://www.acmicpc.net/problem/25556)                                    |          |     ☑️     |          |          |          |            |
 | 📅20240302 |                                  [📜Puyo Puyo](https://www.acmicpc.net/problem/11559)                                  |          |     ☑️     |          |          |          |            |
-| 📅20240302 |                                  [📜배열 돌리기 2](https://www.acmicpc.net/problem/16927)                                  |          |     ⏳     |          |          |          |            |
+| 📅20240302 |                                  [📜배열 돌리기 2](https://www.acmicpc.net/problem/16927)                             |          |     ⏳     |          |          |          |            |
 | 📅20240302 |                                  [📜최대 점수](https://www.acmicpc.net/problem/27085)                                  |          |     ❌     |          |          |          |            |
 | 📅20240309 |                                  [📜FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)                                  |          |     ☑️     |          |          |          |            |
-| 📅20240309 |                                  [📜ZOAC](https://www.acmicpc.net/problem/16719)                                  |          |     ⏳     |          |          |          |            |
-| 📅20240309 |                                  [📜체스판 위의 공](https://www.acmicpc.net/problem/16957)                                  |          |     ⏳     |          |          |          |            |
+| 📅20240309 |                                  [📜ZOAC](https://www.acmicpc.net/problem/16719)                                     |          |     ⏳     |          |          |          |            |
+| 📅20240309 |                                  [📜체스판 위의 공](https://www.acmicpc.net/problem/16957)                            |          |     ⏳     |          |          |          |            |
+| 📅20240316 |                                  [📜다음 팰린드롬 수](https://www.acmicpc.net/problem/1334)                            |          |          |          |          |          |            |
+| 📅20240316 |                                  [📜비슷한 단어](https://www.acmicpc.net/problem/2607)                                  |          |          |          |          |          |            |
+| 📅20240330 |                                  [📜요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)       |          |     ☑️     |          |          |          |            |
+| 📅20240330 |                                  [📜로또](https://www.acmicpc.net/problem/2758)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240330 |                                  [📜계란으로 계란치기](https://www.acmicpc.net/problem/16987)                            |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
