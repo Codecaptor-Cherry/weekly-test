@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
 
  * 개선 전 1364ms
  * 개선 후 96ms
- * start를 이용해서 경우의 수가 겹치지 않도록 한 게 큼
+ * start를 이용해서 경우의 수가 겹치지 않도록 한 것과 limit를 0부터 시작해서 만족하면 종료한 게 영향이 큼
  */
 public class BJ_15684_사다리조작 {
     static int N, M, H;
