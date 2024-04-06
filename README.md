@@ -161,6 +161,8 @@
 | 📅20240330 |                                  [📜요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)       |          |     ☑️     |          |          |          |            |
 | 📅20240330 |                                  [📜로또](https://www.acmicpc.net/problem/2758)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240330 |                                  [📜계란으로 계란치기](https://www.acmicpc.net/problem/16987)                            |          |     ☑️     |          |          |          |            |
+| 📅20240406 |                                  [📜타일 채우기](https://www.acmicpc.net/problem/2133)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240406 |                                  [📜사다리 조작](https://www.acmicpc.net/problem/15684)                                         |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
