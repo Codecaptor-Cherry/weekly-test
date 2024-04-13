@@ -163,6 +163,8 @@
 | 📅20240330 |                                  [📜계란으로 계란치기](https://www.acmicpc.net/problem/16987)                            |          |     ☑️     |          |          |          |            |
 | 📅20240406 |                                  [📜타일 채우기](https://www.acmicpc.net/problem/2133)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240406 |                                  [📜사다리 조작](https://www.acmicpc.net/problem/15684)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240413 |                                  [📜빚](https://www.acmicpc.net/problem/10427)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240413 |                                  [📜산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)                                         |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
