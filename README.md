@@ -165,6 +165,8 @@
 | 📅20240406 |                                  [📜사다리 조작](https://www.acmicpc.net/problem/15684)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240413 |                                  [📜빚](https://www.acmicpc.net/problem/10427)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240413 |                                  [📜산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240420 |                                  [📜특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240420 |                                  [📜기타 레슨](https://www.acmicpc.net/problem/2343)                                         |          |     ☑️     |          |          |          |            |
 
 ### 🍒Checking mark
 
