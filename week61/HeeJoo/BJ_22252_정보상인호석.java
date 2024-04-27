@@ -22,7 +22,7 @@ public class BJ_22252_정보상인호석 {
         int Q = Integer.parseInt(br.readLine()); // 쿼리 개수
 
         HashMap<String, PriorityQueue<Integer>> map = new HashMap<>();
-        long ans = 0;
+        long ans = 0; // 범위 잘 보고 long으로 설정할 것 ~!~! 안그럼 오류나용ㅠㅅㅠ
         for (int i = 0; i < Q; i++) {
             String[] input = br.readLine().split(" ");
             PriorityQueue<Integer> pq;
