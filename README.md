@@ -167,6 +167,10 @@
 | 📅20240413 |                                  [📜산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240420 |                                  [📜특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240420 |                                  [📜기타 레슨](https://www.acmicpc.net/problem/2343)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240427 |                                  [📜멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651)                                         |          |     ⏳     |          |          |          |            |
+| 📅20240427 |                                  [📜회사에 있는 사람](https://www.acmicpc.net/problem/7785)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240427 |                                  [📜정보 상인 호석](https://www.acmicpc.net/problem/22252)                                         |          |     ☑️     |          |          |          |            |
+
 
 ### 🍒Checking mark
 
