@@ -172,6 +172,10 @@
 | 📅20240427 |                                  [📜정보 상인 호석](https://www.acmicpc.net/problem/22252)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240504 |                                  [📜인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240504 |                                  [📜꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181)                                         |          |     ⏳     |          |          |          |            |
+| 📅20240511 |                                  [📜보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                                         |          |          |          |          |          |            |
+| 📅20240511 |                                  [📜부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)                                         |          |          |          |          |          |            |
+| 📅20240511 |                                  [📜연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528)                                         |          |         |          |          |          |            |
+
 
 
 ### 🍒Checking mark
