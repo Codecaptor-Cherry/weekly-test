@@ -175,7 +175,15 @@
 | 📅20240511 |                                  [📜보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                                         |          |          |          |          |          |            |
 | 📅20240511 |                                  [📜부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)                                         |          |          |          |          |          |            |
 | 📅20240511 |                                  [📜연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528)                                         |          |         |          |          |          |            |
-
+| 📅20240518 |                                  [📜두 배열의 합](https://www.acmicpc.net/problem/2143)                                         |          |          |          |          |          |            |
+| 📅20240518 |                                  [📜골목 대장 호석 - 가능성](https://www.acmicpc.net/problem/20168)                                         |          |    ☑️      |          |          |          |            |
+| 📅20240525 |                                  [📜합이 0](https://www.acmicpc.net/problem/3151)                                         |          |          |          |          |          |            |
+| 📅20240525 |                                  [📜Coins](https://www.acmicpc.net/problem/3067)                                         |    ☑️      |          |          |          |          |            |
+| 📅20240525 |                                  [📜대장균의 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649)                                         |          |   ☑️       |          |          |          |            |
+| 📅20240601 |                                  [📜바이러스](https://www.acmicpc.net/problem/2606)                                         |          |          |          |          |          |            |
+| 📅20240601 |                                  [📜촌수계산](https://www.acmicpc.net/problem/2644)                                         |          |          |          |          |          |            |
+| 📅20240608 |                                  [📜에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)                                         |          |          |    ⏳      |          |          |            |
+| 📅20240608 |                                  [📜경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                                         |          |   ⏳       |          |          |          |            |
 
 
 ### 🍒Checking mark
