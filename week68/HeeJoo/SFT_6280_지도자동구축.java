@@ -30,10 +30,6 @@ public class Main {
     }
 
     public static int getPow(int n) {
-        if(n == 1) {
-            return 1;
-        }
-
-        return getPow(n - 1) * 2;
+        return 1 << (n - 1);
     }
 }
