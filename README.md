@@ -183,9 +183,9 @@
 | 📅20240601 |                                  [📜바이러스](https://www.acmicpc.net/problem/2606)                                         |          |          |          |          |          |            |
 | 📅20240601 |                                  [📜촌수계산](https://www.acmicpc.net/problem/2644)                                         |          |          |          |          |          |            |
 | 📅20240608 |                                  [📜에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)                                         |          |     ⏳     |          |          |          |            |
-| 📅20240608 |                                  [📜경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                                         |          |   ⏳       |          |          |          |            |
+| 📅20240608 |                                  [📜경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                                         |          |     ⏳     |          |          |          |            |
 | 📅20240615 |                                  [📜지도 자동 구축](https://softeer.ai/practice/6280)                                         |          |     ☑️     |          |          |          |            |
-| 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |          |     ☑️     |          |          |          |            |
+| 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |          |     ⏳     |          |          |          |            |
 
 
 ### 🍒Checking mark
