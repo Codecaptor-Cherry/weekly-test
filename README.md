@@ -186,6 +186,8 @@
 | 📅20240608 |                                  [📜경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                                         |          |     ⏳     |          |          |          |            |
 | 📅20240615 |                                  [📜지도 자동 구축](https://softeer.ai/practice/6280)                                         |          |     ☑️     |          |          |          |            |
 | 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |          |     ⏳     |          |          |          |            |
+| 📅20240622 |                                  [📜통근버스 출발 순서 검증하기](https://softeer.ai/practice/6257)                                         |          |     ⏳     |          |          |          |            |
+| 📅20240622 |                                  [📜암호코드](https://www.acmicpc.net/problem/2011)                                         |          |     ☑️     |          |          |          |            |
 
 
 ### 🍒Checking mark
