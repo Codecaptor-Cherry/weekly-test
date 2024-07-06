@@ -188,7 +188,11 @@
 | 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |          |     ⏳     |          |          |          |            |
 | 📅20240622 |                                  [📜통근버스 출발 순서 검증하기](https://softeer.ai/practice/6257)                                         |          |     ⏳     |          |          |          |            |
 | 📅20240622 |                                  [📜암호코드](https://www.acmicpc.net/problem/2011)                                         |          |     ☑️     |          |          |          |            |
-
+| 📅20240629 |                                  [📜사과와 바나나](https://www.acmicpc.net/problem/3114)                                         |          |          |          |          |          |            |
+| 📅20240629 |                                  [📜특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519)                                         |          |          |          |          |          |            |
+| 📅20240706 |                                  [📜네트워크 연결](https://www.acmicpc.net/problem/1922)                                         |          |     ☑️     |          |          |          |            
+| 📅20240706 |                                  [📜두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                                         |          |     ☑️     |          |          |          |            
+| 📅20240706 |                                  [📜언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036)                                         |          |     ☑️     |          |          |          |            
 
 ### 🍒Checking mark
 
