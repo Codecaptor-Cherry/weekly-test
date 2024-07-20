@@ -192,7 +192,11 @@
 | 📅20240629 |                                  [📜특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519)                                         |          |          |          |          |          |            |
 | 📅20240706 |                                  [📜네트워크 연결](https://www.acmicpc.net/problem/1922)                                         |          |     ☑️     |          |          |          |            
 | 📅20240706 |                                  [📜두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                                         |          |     ☑️     |          |          |          |            
-| 📅20240706 |                                  [📜언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036)                                         |          |     ☑️     |          |          |          |            
+| 📅20240706 |                                  [📜언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036)                                         |          |     ☑️     |          |          |          |
+| 📅20240713 |                                  [📜A -> B](https://www.acmicpc.net/problem/16953)                                         |          |     ☑️     |          |          |          |
+| 📅20240713 |                                  [📜보석 모으기](https://www.acmicpc.net/problem/1480)                                         |          |     ❌     |          |          |          |
+| 📅20240720 |                                  [📜초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)                                         |          |     ☑️     |          |          |          |
+| 📅20240720 |                                  [📜육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)                                         |          |     ⏳     |          |          |          |
 
 ### 🍒Checking mark
 
