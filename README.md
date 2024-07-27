@@ -197,6 +197,8 @@
 | 📅20240713 |                                  [📜보석 모으기](https://www.acmicpc.net/problem/1480)                                         |          |     ❌     |          |          |          |
 | 📅20240720 |                                  [📜초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)                                         |          |     ☑️     |          |          |          |
 | 📅20240720 |                                  [📜육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)                                         |          |     ⏳     |          |          |          |
+| 📅20240727 |                                  [📜쓰레기 수거](https://www.acmicpc.net/problem/1680)                                         |          |     ☑️     |          |          |          |
+| 📅20240727 |                                  [📜사사의 사차원 사탕 봉지](https://www.acmicpc.net/problem/27968)                                         |          |     ☑️     |          |          |          |
 
 ### 🍒Checking mark
 
