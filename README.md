@@ -201,6 +201,8 @@
 | 📅20240727 |                                  [📜사사의 사차원 사탕 봉지](https://www.acmicpc.net/problem/27968)                                         |          |     ☑️     |          |          |          
 | 📅20240803 |                                  [📜점호](https://www.acmicpc.net/problem/31747)                                         |          |     ⏳     |          |          |          |
 | 📅20240803 |                                  [📜개똥벌레](https://www.acmicpc.net/problem/3020)                                         |          |     ⏳     |          |          |          |
+| 📅20240810 |                                  [📜베스킨라빈스 31](https://www.acmicpc.net/problem/20004)                                         |          |     ⏳     |          |          |          |
+| 📅20240810 |                                  [📜루머](https://www.acmicpc.net/problem/19538)                                         |          |     ⏳     |          |          |          |
 
 ### 🍒Checking mark
 
