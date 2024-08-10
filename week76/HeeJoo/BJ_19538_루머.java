@@ -66,7 +66,7 @@ public class BJ_19538_루머 {
 
 //        rumor(graph, table); // 풀이 1, 2
 
-        // 풀이 3
+        // 풀이 3 ~ 다른 사람들하고 메모리 차이가 남... 왜?
         int[] neighbor = new int[N];
         rumor(queue, graph, table, neighbor);
 
