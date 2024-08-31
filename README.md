@@ -203,6 +203,10 @@
 | 📅20240803 |                                  [📜개똥벌레](https://www.acmicpc.net/problem/3020)                                         |          |     ⏳     |          |          |          |
 | 📅20240810 |                                  [📜베스킨라빈스 31](https://www.acmicpc.net/problem/20004)                                         |          |     ⏳     |          |          |          |
 | 📅20240810 |                                  [📜루머](https://www.acmicpc.net/problem/19538)                                         |          |     ⏳     |          |          |          |
+| 📅20240824 |                                  [📜Q-인덱스](https://www.acmicpc.net/problem/13333)                                         |          |     ⏳     |          |          |          |
+| 📅20240824 |                                  [📜골드바흐의 추측](https://www.acmicpc.net/problem/9080)                                         |          |     ☑️     |          |          |          |
+| 📅20240831 |                                  [📜서버실](https://www.acmicpc.net/problem/17245)                                         |          |     ☑️     |          |          |          |
+| 📅20240831 |                                  [📜전생했더니 슬라임 연구자였던 건에 대하여(Hard)](https://www.acmicpc.net/problem/14698)                                         |          |     ⏳     |          |          |          |
 
 ### 🍒Checking mark
 
