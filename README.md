@@ -207,6 +207,8 @@
 | 📅20240824 |                                  [📜골드바흐의 추측](https://www.acmicpc.net/problem/9080)                                         |          |     ☑️     |          |          |          |
 | 📅20240831 |                                  [📜서버실](https://www.acmicpc.net/problem/17245)                                         |          |     ☑️     |          |          |          |
 | 📅20240831 |                                  [📜전생했더니 슬라임 연구자였던 건에 대하여(Hard)](https://www.acmicpc.net/problem/14698)                                         |          |     ⏳     |          |          |          |
+| 📅20240907 |                                  [📜퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)                                         |          |     ☑️    |          |          |          |
+| 📅20240907 |                                  [📜싸지방에 간 준하](https://www.acmicpc.net/problem/12764)                                         |          |         |          |          |          |
 
 ### 🍒Checking mark
 
