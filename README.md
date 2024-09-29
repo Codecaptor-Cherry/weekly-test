@@ -210,7 +210,7 @@
 | 📅20240907 |                                  [📜퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)                                         |          |     ☑️    |          |          |          |
 | 📅20240907 |                                  [📜싸지방에 간 준하](https://www.acmicpc.net/problem/12764)                                         |          |         |          |          |          |
 | 📅20240921 |                                  [📜충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)                                         |          |    ⏳    |          |          |           |        |
-| 📅20240921 |                                  [📜휴게소 세우기](https://www.acmicpc.net/problem/1477)                                         |          |    ⏳    |          |          |           |        |
+| 📅20240921 |                                  [📜휴게소 세우기](https://www.acmicpc.net/problem/1477)                                         |          |    ⏳    |          |          |      ⏳       |        |
 | 📅20240928 |                                  [📜체인](https://www.acmicpc.net/problem/2785)                                         |          |    ⏳    |          |          |  ☑️         |        |
 | 📅20240928 |                                  [📜매직 스타](https://www.acmicpc.net/problem/3967)                                         |          |    ☑️     |          |          |  ☑️         |          |
 
