@@ -213,8 +213,8 @@
 | 📅20240921 |                                  [📜휴게소 세우기](https://www.acmicpc.net/problem/1477)                                         |          |    ⏳    |          |          |      ⏳       |        |
 | 📅20240928 |                                  [📜체인](https://www.acmicpc.net/problem/2785)                                         |          |    ⏳    |          |          |  ☑️         |        |
 | 📅20240928 |                                  [📜매직 스타](https://www.acmicpc.net/problem/3967)                                         |          |    ☑️     |          |          |  ☑️         |          |
-| 📅20241005 |                                  [📜동작그만 밑장빼기냐](https://www.acmicpc.net/problem/20159)              |          |        |          |          |  ☑️         |        |
-| 📅20241005 |                                  [📜나만 안되는 연애](https://www.acmicpc.net/problem/14621)               |          |       |          |          |           |          
+| 📅20241005 |                                  [📜동작그만 밑장빼기냐](https://www.acmicpc.net/problem/20159)              |          |        |          |          |  ☑️         |    |     | 
+| 📅20241005 |                                  [📜나만 안되는 연애](https://www.acmicpc.net/problem/14621)               |          |       |          |          |      ☑️       |      |    
 
 ### 🍒Checking mark
 
