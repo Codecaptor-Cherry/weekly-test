@@ -221,6 +221,8 @@
 | 📅20241019 |                                  [📜X marks the Spot](https://softeer.ai/practice/7703)               |          |       |          |          |             |      |
 | 📅20241026 |                                  [📜고층 건물](https://www.acmicpc.net/problem/1027)               |          |   ☑️    |          |          |             |      |
 | 📅20241026 |                                  [📜단축키 지정](https://www.acmicpc.net/problem/1283)               |          |   ☑️    |          |          |             |      |
+| 📅20241102 |                                  [📜예산](https://www.acmicpc.net/problem/2512)               |          |   ☑️    |          |          |             |      |
+| 📅20241102 |                                  [📜예산](https://www.acmicpc.net/problem/2504)               |          |   ⏳    |          |          |             |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ `<br>`
