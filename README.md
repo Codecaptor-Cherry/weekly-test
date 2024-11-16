@@ -223,6 +223,10 @@
 | 📅20241026 |                                  [📜단축키 지정](https://www.acmicpc.net/problem/1283)               |          |   ☑️    |          |          |             |      |
 | 📅20241102 |                                  [📜예산](https://www.acmicpc.net/problem/2512)               |          |   ☑️    |          |          |             |      |
 | 📅20241102 |                                  [📜괄호의 값](https://www.acmicpc.net/problem/2504)               |          |   ⏳    |          |          |             |      |
+| 📅20241109 |                                  [📜싸이버개강총회](https://www.acmicpc.net/problem/19583)               |          |       |          |          |             |      |
+| 📅20241109 |                                  [📜호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)               |          |       |          |          |             |      |
+| 📅20241116 |                                  [📜운동](https://www.acmicpc.net/problem/1956)               |          |    ☑️   |          |          |             |      |
+| 📅20241116 |                                  [📜넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)               |          |   ☑️    |          |          |             |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ `<br>`
