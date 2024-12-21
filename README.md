@@ -227,6 +227,14 @@
 | 📅20241109 |                                  [📜호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)               |          |       |          |          |             |      |
 | 📅20241116 |                                  [📜운동](https://www.acmicpc.net/problem/1956)               |          |    ☑️   |          |          |             |      |
 | 📅20241116 |                                  [📜넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)               |          |   ☑️    |          |          |             |      |
+| 📅20241130 |                                  [📜소트인사이드](https://www.acmicpc.net/problem/1427)               |          |       |          |          |             |      |
+| 📅20241130 |                                  [📜늑대와 올바른 단어](https://www.acmicpc.net/problem/13022)               |          |       |          |          |             |      |
+| 📅20241207 |                                  [📜수들의 합](https://www.acmicpc.net/problem/1789)               |          |       |          |          |             |      |
+| 📅20241207 |                                  [📜구간 나누기2](https://www.acmicpc.net/problem/13397)               |          |       |          |          |             |      |
+| 📅20241214 |                                  [📜물 주기](https://www.acmicpc.net/problem/23351)               |          |       |          |          |             |      |
+| 📅20241214 |                                  [📜지뢰찾기](https://www.acmicpc.net/problem/9082)               |          |       |          |          |             |      |
+| 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |          |   ☑️    |          |          |             |      |
+| 📅20241221 |                                  [📜그램팬](https://www.acmicpc.net/problem/26650)               |          |    ⏳   |          |          |             |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ `<br>`
