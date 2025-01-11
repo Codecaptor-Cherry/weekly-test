@@ -237,6 +237,8 @@
 | 📅20241221 |                                  [📜그램팬](https://www.acmicpc.net/problem/26650)               |          |    ⏳   |          |          |             |      |
 | 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |          |    ☑️   |          |          |             |      |
 | 📅20250104 |                                  [📜N번째 큰 수](https://www.acmicpc.net/problem/2075)               |          |    ☑️   |          |          |             |      |
+| 📅20250111 |                                  [📜I AM IRONMAN](https://www.acmicpc.net/problem/17264)               |          |    ☑️   |          |          |             |      |
+| 📅20250111 |                                  [📜반품 회수](https://www.acmicpc.net/problem/31964)               |          |    ☑️   |          |          |             |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ `<br>`
