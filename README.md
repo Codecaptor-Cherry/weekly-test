@@ -6,7 +6,7 @@
 
 ### 🍒 Progress
 
-|            |                                                                                                                        | 👑김건현 | 🐹문희주 | ⭐안수빈 | 💪이우승 | 🦄임태민 | 🐻‍❄️김명진 |
+|            |                                                                                                                        | 👑김건현 | 🐹문희주 | ⭐안수빈 | 💪이우승 | 👻 임태민 | 🐻‍❄️김명진 |
 | :--------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :------: | :------: | :------: | :------: | :------------: |
 | 📅20220813 |        📜[벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&)        |   ☑️   |    ⏳    |   ☑️   |   ☑️   |   ☑️   |                |
 | 📅20220820 |                                  📜[괄호 추가하기](https://www.acmicpc.net/problem/16637)                                  |    ❌    |    ⏳    |   ☑️   |   ☑️   |    ❌    |                |
@@ -235,7 +235,7 @@
 | 📅20241214 |                                  [📜지뢰찾기](https://www.acmicpc.net/problem/9082)               |          |       |          |          |             |      |
 | 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |          |   ☑️    |          |          |             |      |
 | 📅20241221 |                                  [📜그램팬](https://www.acmicpc.net/problem/26650)               |          |    ⏳   |          |          |             |      |
-| 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |          |    ☑️   |          |          |             |      |
+| 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |          |    ☑️   |          |          |       ☑️       |      |
 | 📅20250104 |                                  [📜N번째 큰 수](https://www.acmicpc.net/problem/2075)               |          |    ☑️   |          |          |        ☑️      |      |
 | 📅20250111 |                                  [📜I AM IRONMAN](https://www.acmicpc.net/problem/17264)               |          |    ☑️   |          |          |         ☑️       |      |
 | 📅20250111 |                                  [📜반품 회수](https://www.acmicpc.net/problem/31964)               |          |    ☑️   |          |          |      ☑️          |      |
