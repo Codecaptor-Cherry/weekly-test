@@ -233,7 +233,7 @@
 | 📅20241207 |                                  [📜구간 나누기2](https://www.acmicpc.net/problem/13397)               |          |       |          |          |             |      |
 | 📅20241214 |                                  [📜물 주기](https://www.acmicpc.net/problem/23351)               |          |       |          |          |             |      |
 | 📅20241214 |                                  [📜지뢰찾기](https://www.acmicpc.net/problem/9082)               |          |       |          |          |             |      |
-| 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |          |   ☑️    |          |          |             |      |
+| 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |          |   ☑️    |          |          |      ☑️          |      |
 | 📅20241221 |                                  [📜그램팬](https://www.acmicpc.net/problem/26650)               |          |    ⏳   |          |          |         ☑️       |      |
 | 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |          |    ☑️   |          |          |       ☑️       |      |
 | 📅20250104 |                                  [📜N번째 큰 수](https://www.acmicpc.net/problem/2075)               |          |    ☑️   |          |          |        ☑️      |      |
