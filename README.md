@@ -227,7 +227,7 @@
 | 📅20241109 |                                  [📜호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)               |          |       |          |          |             |      |
 | 📅20241116 |                                  [📜운동](https://www.acmicpc.net/problem/1956)               |          |    ☑️   |          |          |             |      |
 | 📅20241116 |                                  [📜넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)               |          |   ☑️    |          |          |             |      |
-| 📅20241130 |                                  [📜소트인사이드](https://www.acmicpc.net/problem/1427)               |          |       |          |          |             |      |
+| 📅20241130 |                                  [📜소트인사이드](https://www.acmicpc.net/problem/1427)               |          |       |          |          |            ☑️      |      |
 | 📅20241130 |                                  [📜늑대와 올바른 단어](https://www.acmicpc.net/problem/13022)               |          |       |          |          |             |      |
 | 📅20241207 |                                  [📜수들의 합](https://www.acmicpc.net/problem/1789)               |          |       |          |          |        ☑️        |      |
 | 📅20241207 |                                  [📜구간 나누기2](https://www.acmicpc.net/problem/13397)               |          |       |          |          |        ☑️          |      |
