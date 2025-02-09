@@ -215,7 +215,7 @@
 | 📅20240928 |                                  [📜매직 스타](https://www.acmicpc.net/problem/3967)                                         |          |    ☑️     |          |          |  ☑️         |          |
 | 📅20241005 |                                  [📜동작그만 밑장빼기냐](https://www.acmicpc.net/problem/20159)              |          |        |          |          |  ☑️         |    |     | 
 | 📅20241005 |                                  [📜나만 안되는 연애](https://www.acmicpc.net/problem/14621)               |          |       |          |          |      ☑️       |      |    
-| 📅20241012 |                                  [📜시식 코너는 나의 것](https://www.acmicpc.net/problem/23029)               |          |   ☑️    |          |          |             |      |
+| 📅20241012 |                                  [📜시식 코너는 나의 것](https://www.acmicpc.net/problem/23029)               |          |   ☑️    |          |          |    ☑️             |      |
 | 📅20241012 |                                  [📜갤러리](https://www.acmicpc.net/problem/2115)               |          |   ☑️    |          |          |             |      | 
 | 📅20241019 |                                  [📜줄세우기](https://www.acmicpc.net/problem/2631)               |          |       |          |          |             |      |
 | 📅20241019 |                                  [📜X marks the Spot](https://softeer.ai/practice/7703)               |          |       |          |          |             |      |
