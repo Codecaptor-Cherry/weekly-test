@@ -243,6 +243,8 @@
 | 📅20250118 |                                  [📜엘나스의 용사](https://www.acmicpc.net/problem/29794)               |          |    ☑️   |          |          |                |      |
 | 📅20250208 |                                  [📜분리배출](https://www.acmicpc.net/problem/32980)               |          |    ☑️   |          |          |                |      |
 | 📅20250208 |                                  [📜거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)               |          |    ⏳    |          |          |                |      |
+| 📅20250215 |                                  [📜회의실 배정3](https://www.acmicpc.net/problem/19622)               |          |    ☑️    |          |          |                |      |
+| 📅20250215 |                                  [📜시간표 만들기](https://www.acmicpc.net/problem/31837)               |          |    ☑️    |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
