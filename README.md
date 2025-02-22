@@ -245,6 +245,9 @@
 | 📅20250208 |                                  [📜거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)               |          |    ⏳    |          |          |                |      |
 | 📅20250215 |                                  [📜회의실 배정3](https://www.acmicpc.net/problem/19622)               |          |    ☑️    |          |          |                |      |
 | 📅20250215 |                                  [📜시간표 만들기](https://www.acmicpc.net/problem/31837)               |          |    ☑️    |          |          |                |      |
+| 📅20250222 |                                  [📜엔비스카의 영혼](https://www.acmicpc.net/problem/16568)               |          |    ☑️    |          |          |                |      |
+| 📅20250222 |                                  [📜아~파트 아파트](https://www.acmicpc.net/problem/31797)               |          |    ☑️    |          |          |                |      |
+| 📅20250222 |                                  [📜슈퍼 마리오](https://www.acmicpc.net/problem/2851)               |          |    ☑️    |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
