@@ -248,6 +248,8 @@
 | 📅20250222 |                                  [📜엔비스카의 영혼](https://www.acmicpc.net/problem/16568)               |          |    ☑️    |          |          |                |      |
 | 📅20250222 |                                  [📜아~파트 아파트](https://www.acmicpc.net/problem/31797)               |          |    ☑️    |          |          |                |      |
 | 📅20250222 |                                  [📜슈퍼 마리오](https://www.acmicpc.net/problem/2851)               |          |    ☑️    |          |          |                |      |
+| 📅20250308 |                                  [📜초콜릿 자르기](https://www.acmicpc.net/problem/3086)               |          |    ⏳    |          |          |                |      |
+| 📅20250308 |                                  [📜거짓말](https://www.acmicpc.net/problem/1043)               |          |    ☑️    |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
