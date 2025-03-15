@@ -250,6 +250,8 @@
 | 📅20250222 |                                  [📜슈퍼 마리오](https://www.acmicpc.net/problem/2851)               |          |    ☑️    |          |          |                |      |
 | 📅20250308 |                                  [📜초콜릿 자르기](https://www.acmicpc.net/problem/3086)               |          |    ⏳    |          |          |                |      |
 | 📅20250308 |                                  [📜거짓말](https://www.acmicpc.net/problem/1043)               |          |    ☑️    |          |          |                |      |
+| 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |          |    ☑️    |          |          |                |      |
+| 📅20250315 |                                  [📜이 쿠키 달지 않아!](https://www.acmicpc.net/problem/2031)               |          |    ❌    |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
