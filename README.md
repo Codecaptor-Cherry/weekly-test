@@ -252,6 +252,7 @@
 | 📅20250308 |                                  [📜거짓말](https://www.acmicpc.net/problem/1043)               |          |    ☑️    |          |          |                |      |
 | 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |          |    ☑️    |          |          |                |      |
 | 📅20250315 |                                  [📜이 쿠키 달지 않아!](https://www.acmicpc.net/problem/2031)               |          |    ❌    |          |          |                |      |
+| 📅20250329 |                                  [📜Countries](https://www.acmicpc.net/problem/3369)               |          |    ⏳    |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
