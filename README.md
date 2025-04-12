@@ -253,6 +253,8 @@
 | 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |          |    ☑️    |          |          |                |      |
 | 📅20250315 |                                  [📜이 쿠키 달지 않아!](https://www.acmicpc.net/problem/2031)               |          |    ❌    |          |          |                |      |
 | 📅20250329 |                                  [📜Countries](https://www.acmicpc.net/problem/3369)               |          |    ⏳    |          |          |                |      |
+| 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |       |          |          |           ☑️      |      |
+| 📅20250412 |                                  [📜서버증설](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |        |          |          |                |      |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
