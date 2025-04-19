@@ -255,6 +255,9 @@
 | 📅20250329 |                                  [📜Countries](https://www.acmicpc.net/problem/3369)               |          |    ⏳    |          |          |                |      |
 | 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |       |          |          |           ☑️      |      |
 | 📅20250412 |                                  [📜서버증설](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |        |          |          |                |      |
+| 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |       |          |          |           ☑️      |      |
+| 📅20250419 |                                  [📜봉인된주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)               |          |        |          |          |                |      |
+
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
