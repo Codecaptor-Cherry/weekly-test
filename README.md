@@ -253,12 +253,12 @@
 | 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |          |    ☑️    |          |          |                |      |
 | 📅20250315 |                                  [📜이 쿠키 달지 않아!](https://www.acmicpc.net/problem/2031)               |          |    ❌    |          |          |                |      |
 | 📅20250329 |                                  [📜Countries](https://www.acmicpc.net/problem/3369)               |          |    ⏳    |          |          |                |      |
-| 📅20250405 |                                  [📜특별한 물리 공격](https://www.acmicpc.net/problem/31675)               |          |        |          |          |                |      |
-| 📅20250405 |                                  [📜타일 장식물](https://www.acmicpc.net/problem/13301)               |          |        |          |          |                |      |
-| 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |       |          |          |           ☑️      |      |
-| 📅20250412 |                                  [📜서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |        |          |          |                |      |
-| 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |       |          |          |           ☑️      |      |
-| 📅20250419 |                                  [📜봉인된주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)               |          |        |          |          |                |      |
+| 📅20250405 |                                  [📜특별한 물리 공격](https://www.acmicpc.net/problem/31675)               |          |    ❌    |          |          |                |      |
+| 📅20250405 |                                  [📜타일 장식물](https://www.acmicpc.net/problem/13301)               |          |    ⏳    |          |          |                |      |
+| 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |       |     ☑️     |          |           ☑️      |      |
+| 📅20250412 |                                  [📜서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |    ☑️    |          |          |                |      |
+| 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |   ☑️    |          |          |           ☑️      |      |
+| 📅20250419 |                                  [📜봉인된주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)               |          |    ☑️    |          |          |                |      |
 
 ### 🍒Checking mark
 
