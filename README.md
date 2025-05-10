@@ -257,9 +257,11 @@
 | 📅20250405 |                                  [📜타일 장식물](https://www.acmicpc.net/problem/13301)               |          |    ⏳    |          |          |                |      |
 | 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |   ☑️    |          |          |           ☑️      |      |
 | 📅20250412 |                                  [📜서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |    ☑️    |          |          |                |      |
-| 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |   ☑️    |          |          |           ☑️      |      |
-| 📅20250419 |                                  [📜봉인된주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)               |          |    ☑️    |          |          |                |      |
-| 📅20250510 |                                  [📜이상한 나라의 끈끈이주걱](https://www.acmicpc.net/problem/32247)               |          |       |          |          |                |      |
+| 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |   ☑️    |    ☑️      |          |           ☑️      |      |
+| 📅20250419 |                                  [📜봉인된주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)               |          |    ☑️    |    ☑️      |          |                |      |
+| 📅20250503 |                                  [📜별 찍기 - 11](https://www.acmicpc.net/problem/2448)               |          |       |          |          |                |      |
+| 📅20250503 |                                  [📜수리공 항승](https://www.acmicpc.net/problem/1449)               |          |       |     ☑️     |          |                |      |
+| 📅20250510 |                                  [📜이상한 나라의 끈끈이주걱](https://www.acmicpc.net/problem/32247)               |          |       |     ☑️     |          |                |      |
 
 ### 🍒Checking mark
 
