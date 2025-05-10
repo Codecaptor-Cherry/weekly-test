@@ -1,25 +1,36 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.io.IOException;
+import java.util.Scanner;
 
-class Main {
-    public static void main(String[] args) {
+public class Main {
+
+    public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int c = sc.nextInt();
+        int r = sc.nextInt();
 
-        if (n == 1) {
-            System.out.println(4);
-            return;
+        int[] dr = {0, 1, 0, -1};
+        int[] dc = {1, 0, -1, 0};
+        int dir = 0;
+
+        int totalR = r, totalC = c + 1;
+        int curR = 0, curC = -1;
+
+        int total = r * c;
+        int steps = 0;
+
+        while (steps < total) {
+            int move = (dir % 2) == 0 ? totalC - 1 : totalR - 1;
+
+            curR += dr[dir] * move;
+            curC += dc[dir] * move;
+            steps += move;
+
+            if (dir % 2 == 0) totalC--;
+            else totalR--;
+
+            dir = (dir + 1) % 4;
         }
 
-        long[] dp = new long[n + 1];
-        dp[1] = 1;
-        dp[2] = 1;
-        for (int i = 3; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2];
-        }
-
-        System.out.println(4 * dp[n] + 2 * dp[n - 1]);
-        sc.close();
+        System.out.println(curC + " " + curR);
     }
 }
