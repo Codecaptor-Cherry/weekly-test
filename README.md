@@ -262,8 +262,8 @@
 | 📅20250503 |                                  [📜별 찍기 - 11](https://www.acmicpc.net/problem/2448)               |          |   ☑️    |          |          |                |      |
 | 📅20250503 |                                  [📜수리공 항승](https://www.acmicpc.net/problem/1449)               |          |   ☑️    |     ☑️     |          |                |      |
 | 📅20250510 |                                  [📜이상한 나라의 끈끈이주걱](https://www.acmicpc.net/problem/32247)               |          |   ☑️    |     ☑️     |    ☑️        |           ☑️        |      |
-| 📅20250517 |                                  [📜기타콘서트](https://www.acmicpc.net/problem/1497)               |          |    ☑️   |     ☑️     |          |                |      |
-| 📅20250517 |                                  [📜세기의 대결](https://www.acmicpc.net/problem/33679)               |          |    ☑️   |   ☑️       |          |                |      |
+| 📅20250517 |                                  [📜기타콘서트](https://www.acmicpc.net/problem/1497)               |     위     |   클    |     ☑️     |    리      |       2         |   로   |
+| 📅20250517 |                                  [📜세기의 대결](https://www.acmicpc.net/problem/33679)               |     옮     |   겨   |   ☑️       |     주     |       세         |  요   |
 
 ### 🍒Checking mark
 
