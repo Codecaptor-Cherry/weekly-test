@@ -181,52 +181,52 @@
 | 📅20240518 |                                  [📜두 배열의 합](https://www.acmicpc.net/problem/2143)                                         |          |          |          |          |          |            |
 | 📅20240518 |                                  [📜골목 대장 호석 -기능성](https://www.acmicpc.net/problem/20168)                                         |          |    ☑️      |      ⏳    |    ☑️      |          |            |
 | 📅20240525 |                                  [📜합이 0](https://www.acmicpc.net/problem/3151)                                         |          |          |          |        ☑️  |          |            |
-| 📅20240525 |                                  [📜Coins](https://www.acmicpc.net/problem/3067)                                         |          |     ☑️     |    ☑️      |   ☑️       |          |            |
+| 📅20240525 |                                  [📜Coins](https://www.acmicpc.net/problem/3067)                                         |     ☑️     |     ☑️     |    ☑️      |   ☑️       |          |            |
 | 📅20240525 |                                  [📜대장균의 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649)                                         |          |   ☑️       |    ☑️      | ☑️         |          |            |
 | 📅20240601 |                                  [📜바이러스](https://www.acmicpc.net/problem/2606)                                         |          |          |    ☑️      |        ☑️  |          |            |
 | 📅20240601 |                                  [📜촌수계산](https://www.acmicpc.net/problem/2644)                                         |          |          |    ☑️      |  ☑️        |          |            |
 | 📅20240608 |                                  [📜에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)                                         |          |     ⏳     |          |          |          |            |
 | 📅20240608 |                                  [📜경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                                         |          |     ⏳     |          |          |          |            |
-| 📅20240615 |                                  [📜지도 자동 구축](https://softeer.ai/practice/6280)                                         |          |     ☑️     |     ☑️     |          |          |            |
-| 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |          |     ⏳     |     ☑️     |          |          |            |
-| 📅20240622 |                                  [📜통근버스 출발 순서 검증하기](https://softeer.ai/practice/6257)                                         |          |     ⏳     |          |          |          |            |
+| 📅20240615 |                                  [📜지도 자동 구축](https://softeer.ai/practice/6280)                                         |     ☑️     |     ☑️     |     ☑️     |          |          |            |
+| 📅20240615 |                                  [📜업무 처리](https://softeer.ai/practice/6251)                                         |    ☑️      |     ⏳     |     ☑️     |          |          |            |
+| 📅20240622 |                                  [📜통근버스 출발 순서 검증하기](https://softeer.ai/practice/6257)                                         |   ☑️       |     ⏳     |          |          |          |            |
 | 📅20240622 |                                  [📜암호코드](https://www.acmicpc.net/problem/2011)                                         |          |     ☑️     |          |       ☑️   |          |            |
 | 📅20240629 |                                  [📜사과와 바나나](https://www.acmicpc.net/problem/3114)                                         |          |          |          |         ☑️ |          |            |
 | 📅20240629 |                                  [📜특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519)                                         |          |          |     ☑️     |       ☑️   |          |            |
 | 📅20240706 |                                  [📜네트워크 연결](https://www.acmicpc.net/problem/1922)                                         |          |     ☑️     |          |     ☑️     |          |            
 | 📅20240706 |                                  [📜두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                                         |          |     ☑️     |      ⏳    |   ☑️       |          |            
 | 📅20240706 |                                  [📜언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036)                                         |          |     ☑️     |     ☑️     |  ☑️        |          |
-| 📅20240713 |                                  [📜A -> B](https://www.acmicpc.net/problem/16953)                                         |          |     ☑️     |    ☑️      |    ☑️      |          |
+| 📅20240713 |                                  [📜A -> B](https://www.acmicpc.net/problem/16953)                                         |     ☑️     |     ☑️     |    ☑️      |    ☑️      |          |
 | 📅20240713 |                                  [📜보석 모으기](https://www.acmicpc.net/problem/1480)                                         |          |     ❌     |          |          |          |
 | 📅20240720 |                                  [📜초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)                                         |          |     ☑️     |     ☑️     |  ☑️        |          |
 | 📅20240720 |                                  [📜육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)                                         |          |     ⏳     |          |          |          |
-| 📅20240727 |                                  [📜쓰레기 수거](https://www.acmicpc.net/problem/1680)                                         |          |     ☑️     |     ☑️     |     ☑️     |          |
-| 📅20240727 |                                  [📜사사의 사차원 사탕 봉지](https://www.acmicpc.net/problem/27968)                                         |          |     ☑️     |    ☑️      |   ☑️       |          
-| 📅20240803 |                                  [📜점호](https://www.acmicpc.net/problem/31747)                                         |          |     ⏳     |     ☑️     |      ☑️    |          |
+| 📅20240727 |                                  [📜쓰레기 수거](https://www.acmicpc.net/problem/1680)                                         |     ☑️     |     ☑️     |     ☑️     |     ☑️     |          |
+| 📅20240727 |                                  [📜사사의 사차원 사탕 봉지](https://www.acmicpc.net/problem/27968)                                         |    ☑️      |     ☑️     |    ☑️      |   ☑️       |          
+| 📅20240803 |                                  [📜점호](https://www.acmicpc.net/problem/31747)                                         |      ☑️    |     ⏳     |     ☑️     |      ☑️    |          |
 | 📅20240803 |                                  [📜개똥벌레](https://www.acmicpc.net/problem/3020)                                         |          |     ⏳     |     ☑️     |   ☑️       |          |
-| 📅20240810 |                                  [📜베스킨라빈스 31](https://www.acmicpc.net/problem/20004)                                         |          |     ⏳     |    ☑️     |     ☑️     |          |
+| 📅20240810 |                                  [📜베스킨라빈스 31](https://www.acmicpc.net/problem/20004)                                         |     ☑️     |     ⏳     |    ☑️     |     ☑️     |          |
 | 📅20240810 |                                  [📜루머](https://www.acmicpc.net/problem/19538)                                         |          |     ⏳     |          |       ☑️   |          |
 | 📅20240824 |                                  [📜Q-인덱스](https://www.acmicpc.net/problem/13333)                                         |          |     ⏳     |    ☑️      |      ☑️    |          |
 | 📅20240824 |                                  [📜골드바흐의 추측](https://www.acmicpc.net/problem/9080)                                         |          |     ☑️     |          |    ☑️      |          |
-| 📅20240831 |                                  [📜서버실](https://www.acmicpc.net/problem/17245)                                         |          |     ☑️     |          |     ☑️     |          |
-| 📅20240831 |                                  [📜전생했더니 슬라임 연구자였던 건에 대하여(Hard)](https://www.acmicpc.net/problem/14698)                                         |          |     ⏳     |          |   ☑️       |          |
-| 📅20240907 |                                  [📜퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)                                         |          |     ☑️    |    ☑️      |   ☑️       |          |
-| 📅20240907 |                                  [📜싸지방에 간 준하](https://www.acmicpc.net/problem/12764)                                         |          |         |          |      ☑️    |         ⏳    |  |
+| 📅20240831 |                                  [📜서버실](https://www.acmicpc.net/problem/17245)                                         |     ☑️     |     ☑️     |          |     ☑️     |          |
+| 📅20240831 |                                  [📜전생했더니 슬라임 연구자였던 건에 대하여(Hard)](https://www.acmicpc.net/problem/14698)                                         |    ☑️      |     ⏳     |          |   ☑️       |          |
+| 📅20240907 |                                  [📜퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)                                         |     ☑️     |     ☑️    |    ☑️      |   ☑️       |          |
+| 📅20240907 |                                  [📜싸지방에 간 준하](https://www.acmicpc.net/problem/12764)                                         |    ☑️      |         |          |      ☑️    |         ⏳    |  |
 | 📅20240921 |                                  [📜충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)                                         |          |    ⏳    |          |           |           |        |
-| 📅20240921 |                                  [📜휴게소 세우기](https://www.acmicpc.net/problem/1477)                                         |          |    ⏳    |          |     ☑️     |      ⏳       |        |
+| 📅20240921 |                                  [📜휴게소 세우기](https://www.acmicpc.net/problem/1477)                                         |    ☑️      |    ⏳    |          |     ☑️     |      ⏳       |        |
 | 📅20240928 |                                  [📜체인](https://www.acmicpc.net/problem/2785)                                         |          |    ⏳    |  ☑️        |     ☑️     |  ☑️         |        |
 | 📅20240928 |                                  [📜매직 스타](https://www.acmicpc.net/problem/3967)                                         |          |    ☑️     |   ☑️       |     ☑️     |  ☑️         |          |
-| 📅20241005 |                                  [📜동작그만 밑장빼기냐](https://www.acmicpc.net/problem/20159)              |          |        |          |      ☑️    |  ☑️         |    |     | 
+| 📅20241005 |                                  [📜동작그만 밑장빼기냐](https://www.acmicpc.net/problem/20159)              |     ☑️     |        |          |      ☑️    |  ☑️         |    |     | 
 | 📅20241005 |                                  [📜나만 안되는 연애](https://www.acmicpc.net/problem/14621)               |          |       |          |     ☑️     |      ☑️       |      |    
 | 📅20241012 |                                  [📜시식 코너는 나의 것](https://www.acmicpc.net/problem/23029)               |          |   ☑️    |    ☑️      |     ☑️     |    ☑️             |      |
 | 📅20241012 |                                  [📜갤러리](https://www.acmicpc.net/problem/2115)               |          |   ☑️    |    ☑️      |     ☑️     |        ☑️        |      | 
-| 📅20241019 |                                  [📜줄세우기](https://www.acmicpc.net/problem/2631)               |          |       |          |       ☑️   |             |      |
+| 📅20241019 |                                  [📜줄세우기](https://www.acmicpc.net/problem/2631)               |    ☑️      |       |          |       ☑️   |             |      |
 | 📅20241019 |                                  [📜X marks the Spot](https://softeer.ai/practice/7703)               |    소    |   프   |     티     |     어     |      제      |   외   |
 | 📅20241026 |                                  [📜고층 건물](https://www.acmicpc.net/problem/1027)               |          |   ☑️    |          |    ☑️      |             |      |
-| 📅20241026 |                                  [📜단축키 지정](https://www.acmicpc.net/problem/1283)               |          |   ☑️    |     ☑️     |      ☑️    |             |      |
-| 📅20241102 |                                  [📜예산](https://www.acmicpc.net/problem/2512)               |          |   ☑️    |          |     ☑️     |             |      |
+| 📅20241026 |                                  [📜단축키 지정](https://www.acmicpc.net/problem/1283)               |    ☑️      |   ☑️    |     ☑️     |      ☑️    |             |      |
+| 📅20241102 |                                  [📜예산](https://www.acmicpc.net/problem/2512)               |    ☑️      |   ☑️    |          |     ☑️     |             |      |
 | 📅20241102 |                                  [📜괄호의 값](https://www.acmicpc.net/problem/2504)               |          |   ⏳    |    ☑️      |    ☑️      |             |      |
-| 📅20241109 |                                  [📜싸이버개강총회](https://www.acmicpc.net/problem/19583)               |          |       |   ☑️       |     ☑️     |             |      |
+| 📅20241109 |                                  [📜싸이버개강총회](https://www.acmicpc.net/problem/19583)               |    ☑️      |       |   ☑️       |     ☑️     |             |      |
 | 📅20241109 |                                  [📜호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)               |          |       |          |     ☑️     |             |      |
 | 📅20241116 |                                  [📜운동](https://www.acmicpc.net/problem/1956)               |          |    ☑️   |     ☑️     |   ☑️       |             |      |
 | 📅20241116 |                                  [📜넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)               |          |   ☑️    |          |    ☑️      |             |      |
@@ -236,28 +236,28 @@
 | 📅20241207 |                                  [📜구간 나누기2](https://www.acmicpc.net/problem/13397)               |          |       |          |    ☑️      |        ☑️          |      |
 | 📅20241214 |                                  [📜물 주기](https://www.acmicpc.net/problem/23351)               |          |    ☑️   |    ☑️      |       ☑️   |   ☑️        |      |
 | 📅20241214 |                                  [📜지뢰찾기](https://www.acmicpc.net/problem/9082)               |          |   ☑️    |          |      ☑️    |         ☑️        |      |
-| 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |          |   ☑️    |    ☑️      |  ☑️        |      ☑️          |      |
+| 📅20241221 |                                  [📜상자넣기](https://www.acmicpc.net/problem/1965)               |     ☑️     |   ☑️    |    ☑️      |  ☑️        |      ☑️          |      |
 | 📅20241221 |                                  [📜그램팬](https://www.acmicpc.net/problem/26650)               |          |    ⏳   |          |       ☑️   |         ☑️       |      |
-| 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |          |    ☑️   |    ☑️      |   ☑️       |       ☑️       |      |
-| 📅20250104 |                                  [📜N번째 큰 수](https://www.acmicpc.net/problem/2075)               |          |    ☑️   |    ☑️      |       ☑️   |        ☑️      |      |
-| 📅20250111 |                                  [📜I AM IRONMAN](https://www.acmicpc.net/problem/17264)               |          |    ☑️   |          |      ☑️    |         ☑️       |      |
-| 📅20250111 |                                  [📜반품 회수](https://www.acmicpc.net/problem/31964)               |          |    ☑️   |          |         ☑️ |      ☑️          |      |
-| 📅20250118 |                                  [📜나이트의 이동](https://www.acmicpc.net/problem/7562)               |          |    ☑️   |          |      ☑️    |           ☑️         |      |
+| 📅20250104 |                                  [📜치킨치킨치킨](https://www.acmicpc.net/problem/16439)               |     ☑️     |    ☑️   |    ☑️      |   ☑️       |       ☑️       |      |
+| 📅20250104 |                                  [📜N번째 큰 수](https://www.acmicpc.net/problem/2075)               |     ☑️     |    ☑️   |    ☑️      |       ☑️   |        ☑️      |      |
+| 📅20250111 |                                  [📜I AM IRONMAN](https://www.acmicpc.net/problem/17264)               |   ☑️       |    ☑️   |          |      ☑️    |         ☑️       |      |
+| 📅20250111 |                                  [📜반품 회수](https://www.acmicpc.net/problem/31964)               |     ☑️     |    ☑️   |          |         ☑️ |      ☑️          |      |
+| 📅20250118 |                                  [📜나이트의 이동](https://www.acmicpc.net/problem/7562)               |   ☑️       |    ☑️   |          |      ☑️    |           ☑️         |      |
 | 📅20250118 |                                  [📜엘나스의 용사](https://www.acmicpc.net/problem/29794)               |          |    ☑️   |          |          |                |      |
-| 📅20250208 |                                  [📜분리배출](https://www.acmicpc.net/problem/32980)               |          |    ☑️   |    ☑️      |     ☑️     |                |      |
+| 📅20250208 |                                  [📜분리배출](https://www.acmicpc.net/problem/32980)               |   ☑️       |    ☑️   |    ☑️      |     ☑️     |                |      |
 | 📅20250208 |                                  [📜거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)               |          |    ⏳    |          |     ☑️     |                |      |
-| 📅20250215 |                                  [📜회의실 배정3](https://www.acmicpc.net/problem/19622)               |          |    ☑️    |          |          |                |      |
-| 📅20250215 |                                  [📜시간표 만들기](https://www.acmicpc.net/problem/31837)               |          |    ☑️    |          |          |                |      |
-| 📅20250222 |                                  [📜엔비스카의 영혼](https://www.acmicpc.net/problem/16568)               |          |    ☑️    |          |    ☑️      |                |      |
-| 📅20250222 |                                  [📜아~파트 아파트](https://www.acmicpc.net/problem/31797)               |          |    ☑️    |    ☑️      |      ☑️    |                |      |
-| 📅20250222 |                                  [📜슈퍼 마리오](https://www.acmicpc.net/problem/2851)               |          |    ☑️    |    ☑️      |      ☑️    |                |      |
+| 📅20250215 |                                  [📜회의실 배정3](https://www.acmicpc.net/problem/19622)               |    ☑️      |    ☑️    |          |          |                |      |
+| 📅20250215 |                                  [📜시간표 만들기](https://www.acmicpc.net/problem/31837)               |     ☑️     |    ☑️    |          |          |                |      |
+| 📅20250222 |                                  [📜엔비스카의 영혼](https://www.acmicpc.net/problem/16568)               |   ☑️       |    ☑️    |          |    ☑️      |                |      |
+| 📅20250222 |                                  [📜아~파트 아파트](https://www.acmicpc.net/problem/31797)               |    ☑️      |    ☑️    |    ☑️      |      ☑️    |                |      |
+| 📅20250222 |                                  [📜슈퍼 마리오](https://www.acmicpc.net/problem/2851)               |     ☑️     |    ☑️    |    ☑️      |      ☑️    |                |      |
 | 📅20250308 |                                  [📜초콜릿 자르기](https://www.acmicpc.net/problem/3086)               |          |    ⏳    |          |          |                |      |
 | 📅20250308 |                                  [📜거짓말](https://www.acmicpc.net/problem/1043)               |          |    ☑️    |     ☑️     |          |                |      |
-| 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |          |    ☑️    |     ☑️     |          |                |      |
+| 📅20250315 |                                  [📜수열 정렬](https://www.acmicpc.net/problem/1015)               |  ☑️        |    ☑️    |     ☑️     |          |                |      |
 | 📅20250315 |                                  [📜이 쿠키 달지 않아!](https://www.acmicpc.net/problem/2031)               |          |    ❌    |          |          |                |      |
 | 📅20250329 |                                  [📜Countries](https://www.acmicpc.net/problem/3369)               |          |    ⏳    |          |          |                |      |
 | 📅20250405 |                                  [📜특별한 물리 공격](https://www.acmicpc.net/problem/31675)               |          |        |          |          |                |      |
-| 📅20250405 |                                  [📜타일 장식물](https://www.acmicpc.net/problem/13301)               |          |    ⏳    |    ☑️      |    ☑️      |                |      |
+| 📅20250405 |                                  [📜타일 장식물](https://www.acmicpc.net/problem/13301)               |     ☑️     |    ⏳    |    ☑️      |    ☑️      |                |      |
 | 📅20250412 |                                  [📜나선](https://www.acmicpc.net/problem/1491)               |          |   ☑️    |     ☑️     |       ☑️   |           ☑️      |      |
 | 📅20250412 |                                  [📜서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)               |          |    ☑️    |          |      ☑️    |                |      |
 | 📅20250419 |                                  [📜행운의바퀴](https://www.acmicpc.net/problem/2840)               |          |   ☑️    |    ☑️      |   ☑️       |           ☑️      |      |
