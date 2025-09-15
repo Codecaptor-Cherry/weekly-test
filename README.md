@@ -243,7 +243,7 @@
 | 📅20250111 |                                  [📜I AM IRONMAN](https://www.acmicpc.net/problem/17264)               |   ☑️       |    ☑️   |          |      ☑️    |         ☑️       |      |
 | 📅20250111 |                                  [📜반품 회수](https://www.acmicpc.net/problem/31964)               |     ☑️     |    ☑️   |          |         ☑️ |      ☑️          |      |
 | 📅20250118 |                                  [📜나이트의 이동](https://www.acmicpc.net/problem/7562)               |   ☑️       |    ☑️   |          |      ☑️    |           ☑️         |      |
-| 📅20250118 |                                  [📜엘나스의 용사](https://www.acmicpc.net/problem/29794)               |          |    ☑️   |          |          |                |      |
+| 📅20250118 |                                  [📜엘나스의 용사](https://www.acmicpc.net/problem/29794)               |          |       |          |          |                |      |
 | 📅20250208 |                                  [📜분리배출](https://www.acmicpc.net/problem/32980)               |   ☑️       |    ☑️   |    ☑️      |     ☑️     |                |      |
 | 📅20250208 |                                  [📜거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)               |          |    ⏳    |          |     ☑️     |                |      |
 | 📅20250215 |                                  [📜회의실 배정3](https://www.acmicpc.net/problem/19622)               |    ☑️      |    ☑️    |          |          |                |      |
